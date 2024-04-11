@@ -6,12 +6,14 @@
 <br/>
 
 <div align="center"> 
-    <h3 align="center">A passionate software developer from Brazil 👨‍💻</h3>
+    <h3 align="center">A passionate software developer from Brazil</h3>
     <a href="https://www.linkedin.com/in/cauê-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <br/>
 <br/>
+
+<h2 align="center">👨🏽‍💻 About me 👨🏽‍💻</h2>
 
 ```python
 class Dev:
@@ -38,7 +40,7 @@ if __name__ == '__main__':
 
 ```
 
-<div align="center" style="display: inline_block"><br>
+<!-- <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -50,4 +52,12 @@ if __name__ == '__main__':
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="MD" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubvuPaQibp43Md2iW9Qihef64BRdCBpgoBg&usqp=CAU">
+</div> -->
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,cs,bots,md,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,docker,postgresql,flask,django,vue,fastapi" /><br>
 </div>
