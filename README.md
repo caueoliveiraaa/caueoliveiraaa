@@ -4,12 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=280&height=70&duration=6000&lines=Hello+world;I'm+Cauê;Nice+to+meet+you;Wellcome+!;" />
 </div> -->
 
-<div align="left"> 
+
+<!-- <div align="left"> 
     <h2 align="left">💻 Info:</h2>
     <a href="https://www.linkedin.com/in/cauê-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<br/>
+</div> 
+<br/> -->
 
 <h2 align="left">🛠️ Tools:</h2>
 <div align="left">
