@@ -1,3 +1,4 @@
+<!-- Find more icons => https://github.com/tandpfun/skill-icons -->
 
 <!-- <h2 align="left">🤖 Intro:</h2>
 <div align="left">
@@ -11,10 +12,23 @@
 </div> 
 <br/> -->
 
+<h2 align="left">⚙️ Languages:</h2>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=python,cs,html,css,javascript,typescript,nodejs" /><br>
+</div>
+
+<br/>
+
+<h2 align="left">📚 Libs:</h2>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=vue,npm,flask,django,fastapi,selenium,dotnet" /><br>
+</div>
+
+<br/>
+
 <h2 align="left">🛠️ Tools:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,cs,bots,md,selenium" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,docker,postgresql,flask,django,vue,fastapi" /><br>
+    <img src="https://skillicons.dev/icons?i=git,docker,visualstudio,postgresql,linux,sqlite,vscode,github,regex,powershell" /><br>
 </div>
 
 <br/>
