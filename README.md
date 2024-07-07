@@ -12,25 +12,17 @@
 </div> 
 <br/> -->
 
-<h2 align="left">⚙️ Languages:</h2>
+<h2 align="left">⚙️ Programming Languages:</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,cs,html,css,javascript,typescript,nodejs" /><br>
 </div>
 
 <br/>
 
-<h2 align="left">📚 Libs:</h2>
+<h2 align="left">🛠️ Programming Tools:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=vue,npm,flask,django,fastapi,selenium,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,selenium,dotnet,docker,postgresql,sqlite,git,linux,vue,npm" /><br>
 </div>
-
-<br/>
-
-<h2 align="left">🛠️ Tools:</h2>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=git,docker,visualstudio,postgresql,linux,sqlite,vscode,github,regex,powershell" /><br>
-</div>
-
 <br/>
 
 <h2 align="left">📈 Stats:</h2>
