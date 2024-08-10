@@ -17,6 +17,8 @@
     Here are some of the programming languages and tools I have experience with, and futher below you will find some of my repositories!
 </h2>
 
+<br/>
+
 <h2 align="left">⚙️ Programming languages I have studied and worked with during my career.</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" /><br>
@@ -25,20 +27,20 @@
 
 <br/>
 
-<h2 align="left">🛠️ Development tools and frameworks I have experience with, both studying and working.</h2>
+<h2 align="left">🛠️ Tools and frameworks I have experience with, both studying and working.</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=dotnet,django,flask,fastapi,selenium,vue,npm,bootstrap,react" /><br>
     <img src="https://skillicons.dev/icons?i=docker,git,postgresql,sqlite,linux,postman,github,gitlab,jenkins,visualstudio,vscode" /><br>
 </div>
 <br/>
 
-<h2 align="left">👨‍💻 The ones I have experience with the most!</h2>
+<h2 align="left">👨‍💻 The languages and tools I have experience with the most!</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,cs,javascript,selenium,postgresql,git,fastapi" /><br>
 </div>
 <br/>
 
-<h2 align="left">📈 Stats:</h2>
+<h2 align="left">📈 Here you can see the stats of all the repositories</h2>
 <div align="left">
     <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caueoliveiraaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
