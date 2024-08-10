@@ -19,7 +19,7 @@
 
 <br/>
 
-<h2 align="left">⚙️ Programming languages I have studied and worked with during my career.</h2>
+<h2 align="left">⚙️ Languages I have studied and worked with throughout my career.</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" /><br>
     <img src="https://skillicons.dev/icons?i=python,cs,nodejs,java,regex,powershell" /><br>
@@ -27,7 +27,7 @@
 
 <br/>
 
-<h2 align="left">🛠️ Tools and frameworks I have experience with, both studying and working.</h2>
+<h2 align="left">🛠️ Tools and frameworks I have studied and worked with.</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=dotnet,django,flask,fastapi,selenium,vue,npm,bootstrap,react" /><br>
     <img src="https://skillicons.dev/icons?i=docker,git,postgresql,sqlite,linux,postman,github,gitlab,jenkins,visualstudio,vscode" /><br>
