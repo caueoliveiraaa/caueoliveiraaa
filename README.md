@@ -42,5 +42,5 @@
 
 <h2 align="left">💾 Here you can see the stats of all the repositories</h2>
 <div align="left">
-    <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caueoliveiraaa&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="200em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caueoliveiraaa&layout=compact&langs_count=100&theme=dracula"/>
 </div>
