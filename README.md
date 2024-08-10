@@ -19,7 +19,7 @@
 
 <br/>
 
-<h2 align="left">⚙️ Languages I have studied and worked with throughout my career.</h2>
+<h2 align="left">💻 Languages I have studied and worked with throughout my career.</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" /><br>
     <img src="https://skillicons.dev/icons?i=python,cs,nodejs,java,regex,powershell" /><br>
@@ -40,7 +40,7 @@
 </div>
 <br/>
 
-<h2 align="left">📈 Here you can see the stats of all the repositories</h2>
+<h2 align="left">💾 Here you can see the stats of all the repositories</h2>
 <div align="left">
     <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caueoliveiraaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
