@@ -1,7 +1,6 @@
 <!-- Find more icons => https://github.com/tandpfun/skill-icons -->
-<h2 align="left">👨‍💻💬 Hello there human! Welcome to my GitHub! 🌌☄️ </h2>
 <h2 align="left">
-    👨‍💻💬 I am a full stack developer who has a passion for continuous learning and for technology. I love movies, series, games, music, technology and learning new languages and programming languages!<br/><br/>
+    👨‍💻💬 Hi there! I am a full stack developer who has a passion for continuous learning and for technology. I love movies, series, games, music, technology and learning new languages and programming languages!<br/><br/>
     👨‍💻💬 Here are some of the programming languages and tech tools I have experience with in my career and in my studies, and futher down you are going to find some of my repositories as well!
 </h2>
 <br/>
