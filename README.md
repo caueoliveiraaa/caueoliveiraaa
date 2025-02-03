@@ -2,7 +2,7 @@
 <h2 align="left">👋🏽🧑🏽‍🦲 Hi there! I'm Cauê and welcome to my profile!</h2>
 <h3>This is my personal Github profile, where I showcase some of the projects I've developed throughout my career, including full stack web development, web scraping, and RPA (Robotic Process Automation).
 In addition to my technical skills, I'm fluent in Portuguese, English, and Spanish, and I have professional experience with technical support and language teaching. 
-</h3><br><br>
+</h3><br>
    
 <h2 align="left">🧩⚒️ Languages and frameworks I have worked with:</h2>
 <div align="left">
