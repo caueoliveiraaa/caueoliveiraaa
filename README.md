@@ -3,6 +3,6 @@
 <h3>This is my personal Github profile, where I showcase various projects I've developed throughout my career. My experience includes full stack web development, web scraping, and RPA.
 </h3><br>
    
-<img height="200em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caueoliveiraaa&layout=compact&langs_count=100&theme=dracula" style="display: inline-block;"/>
+
 
 
