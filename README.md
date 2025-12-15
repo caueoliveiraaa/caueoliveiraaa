@@ -86,3 +86,11 @@ A Python script that scans your Windows system for junk files and safely removes
 📁 *Focus:* Automation, system utilities  
 
 ---
+
+### 🗄️ **DataCommerceDB**
+This project is designed to explore user behavior, product performance, and sales trends. 
+
+🔧 *Tech:* PostgreSQL, SQL </br>
+📁 *Focus:* Database design, analytics, workflow automation
+
+---
